@@ -1,0 +1,79 @@
+
+ body{
+ 	background-color: lightgrey;
+ 	color:black;
+ 	font-family: Arial,Helvetica, sans-serif;
+  font-weight: 600;
+ 	font-size: 18px;
+ 	margin:25px;
+
+ 	
+ }
+
+  ul{
+  	list-style-type: none;
+  }
+
+  a{
+  	text-decoration: none;
+  	color: black;
+  }
+  
+
+  .logo img {
+    width:150px;
+  }  
+
+  .navbar ul{
+  	display: flex;
+    
+  }
+
+  .navbar a{
+  	padding: 20px;
+  	margin: 0 5px;
+  }
+
+  .navbar a:hover{
+  color: green;
+}
+
+  
+  .container{
+     padding: 0 40px; 
+
+  }
+  
+
+  .flex{
+  	display: flex;
+  	align-items: center;
+  }
+
+ .Gallery img{
+ 	  display: block;
+      margin-left: auto;
+      margin-right: auto;
+      width: 40%;
+ 	  padding:15px;
+ 	  border: 20px;
+ }
+     
+  h1{                         /* MY Work*/
+ 	text-align: center;
+ 	padding-bottom : 20px;
+ 	font-size: 25px;
+ 	font-family: Serif;
+
+ }
+ .dot {
+   border-radius: 100%; 
+   width: 150px; 
+   height: 150px; 
+   background-color: black;
+   color: white;  
+   font-size: 16px;
+   padding: 40px;
+
+}
+ 
